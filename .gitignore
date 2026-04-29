@@ -4,6 +4,5 @@ app.jsx
 components.jsx
 tweaks-panel.jsx
 styles.css
-assets/
 package-lock.json
 package.json
