@@ -1,0 +1,4 @@
+# Kontissa ajettavat tiedostot aina LF-rivinvaihdoilla
+*.sh text eol=lf
+nginx.conf text eol=lf
+Dockerfile text eol=lf
