@@ -1,0 +1,354 @@
+{
+  "sahko-riippuvalaisimet": {
+    "alt": "Riippuvalaisimet olohuoneen katossa",
+    "sm": [
+      640,
+      480
+    ],
+    "lg": [
+      1440,
+      1080
+    ]
+  },
+  "sahko-keittio": {
+    "alt": "Keittiön valaistus ja kodinkoneiden sähköistys",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-tyotasovalot": {
+    "alt": "Keittiön työtason LED-valaistus",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-kylpyhuone": {
+    "alt": "Kylpyhuoneen valaistu peili ja kattovalot",
+    "sm": [
+      640,
+      1138
+    ],
+    "lg": [
+      810,
+      1440
+    ]
+  },
+  "sahko-liesituuletin": {
+    "alt": "Saarekeliesituuletin asennettuna",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-kiskovalot": {
+    "alt": "Kiskovalaisimet olohuoneessa",
+    "sm": [
+      640,
+      1138
+    ],
+    "lg": [
+      810,
+      1440
+    ]
+  },
+  "sahko-porrasvalot": {
+    "alt": "Porraskäytävän kohdevalot kattoikkunan alla",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-kytkimet": {
+    "alt": "Retrotyyliset kytkimet seinässä",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-led-paneelit": {
+    "alt": "LED-paneelivalaisimet uudessa tilassa",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-mittauskeskus": {
+    "alt": "Uusi mittauskeskus kytkettynä",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-keskustyo": {
+    "alt": "Sähkökeskuksen kytkentätyö rakennusvaiheessa",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "sahko-piharakennus": {
+    "alt": "Piharakennuksen ulkovalaistus",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lataus-valmis": {
+    "alt": "Valmis latausasema ja kaapelin pidike talon seinällä",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lataus-asennus": {
+    "alt": "Latausaseman asennus talon seinälle",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lataus-kiinnitys": {
+    "alt": "Latausaseman kiinnitys",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lataus-kytkenta": {
+    "alt": "Latausaseman taustalevyn kytkentä",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lataus-kuormanhallinta": {
+    "alt": "Kuormanhallinnan ohjausnäyttö",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lampo-ulkoyksikko": {
+    "alt": "Ilmalämpöpumpun ulkoyksikkö jalustalla tiiliseinän vieressä",
+    "sm": [
+      640,
+      1138
+    ],
+    "lg": [
+      810,
+      1440
+    ]
+  },
+  "lampo-sisayksikko": {
+    "alt": "Ilmalämpöpumpun sisäyksikkö ikkunan yläpuolella",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lampo-sisayksikko-2": {
+    "alt": "Ilmalämpöpumpun sisäyksikkö puupaneelikaton alla",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lampo-asennus": {
+    "alt": "Ilmalämpöpumpun ulkoyksikön asennus",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "lampo-asennus-2": {
+    "alt": "Ulkoyksikön asennus jalustalle",
+    "sm": [
+      640,
+      1138
+    ],
+    "lg": [
+      810,
+      1440
+    ]
+  },
+  "lampo-tyhjiointi": {
+    "alt": "Kylmäaineputkiston tyhjiöinti asennuksen yhteydessä",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kirkko-risti-valaistu": {
+    "alt": "Lopen kirkon tornin risti valaistuna iltahämärässä",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kirkko-loppi": {
+    "alt": "Lopen kirkko ja SähköTepin pakettiauto",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kirkko-tornissa": {
+    "alt": "Teemu työssä Lopen kirkon tornin huipulla",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kirkko-risti": {
+    "alt": "Tornin risti ja ukkosenjohdatin ylhäältä kuvattuna",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kirkko-risti-led": {
+    "alt": "Ristin LED-valaistus lähikuvassa",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kirkko-maadoitusmittaus": {
+    "alt": "Salamasuojauksen maadoitusmittaus kirkon pihalla",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kirkko-ilmakuva": {
+    "alt": "Näkymä Lopen kirkon tornista",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kiinteisto-lammitystolppa": {
+    "alt": "Uusittu lämmitystolppa pysäköintialueella",
+    "sm": [
+      640,
+      853
+    ],
+    "lg": [
+      1080,
+      1440
+    ]
+  },
+  "kiinteisto-paakeskus": {
+    "alt": "Pääkeskuksen kytkennät",
+    "sm": [
+      640,
+      811
+    ],
+    "lg": [
+      1137,
+      1440
+    ]
+  }
+}
